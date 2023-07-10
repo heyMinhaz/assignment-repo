@@ -27,11 +27,21 @@ color: #272727;
 }
 .btn{
 
-  padding: 17px 35px ;
+  padding: 15px 30px ;
   border-radius: 10px;
   border: none;
   background-color: #E55473;
   color: white;
+
+}
+.btn2{
+
+  padding: 15px 30px ;
+  border-radius: 10px;
+  border: none;
+  background-color: #E55473;
+  color: white;
+margin-top: 10px;
 
 }
 .img{
@@ -144,3 +154,51 @@ margin: 10px;
 
 }
 
+.hot-deals{
+
+display: flex;
+width: 100%;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+margin-top: 50px;
+height: 350px;
+justify-content: center;
+align-items: center;
+
+
+}
+.hotp{
+
+
+  display: flex;
+  width: 594px;
+  color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+
+}
+
+.hot-titel{
+
+padding-top: 50px ;
+text-align: center;
+
+}
+.hot-image{
+
+width: 250px ;
+height: 300px;
+padding-left: 100px;
+justify-items: center;
+
+}
+.btnboos{
+display: flex;
+justify-content: center;
+
+}
