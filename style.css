@@ -1,0 +1,121 @@
+*{
+ margin: 0;
+ padding: 0px;
+
+
+}
+
+
+.main-container{
+
+    background: rgba(229, 84, 115, 0.10);
+    height: 100vh;
+    display: flex;
+      align-items: center;
+      padding: 0px 70px 0px 130px ;
+
+}
+.pera{
+
+width: 50%;
+color: #272727;
+
+
+    
+}
+.btn{
+
+  padding: 17px 35px ;
+  border-radius: 10px;
+  border: none;
+  background-color: #E55473;
+  color: white;
+
+}
+.img{
+
+
+    width: 510px;
+    height: 610px;
+
+}
+.description{
+
+  color: rgba(39, 39, 39, 0.60);
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  width: 630px;
+flex-direction: column;
+
+}
+.title{
+
+font-size: 70px;
+width: 800;
+
+}
+.Bonus-section{
+text-align: center;
+margin-top: 80px;
+
+}
+.b-pera{
+
+  color: rgba(39, 39, 39, 0.60);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+
+}
+.flower-boll1{
+
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  width: 250px;
+  height: 350px;
+
+}
+.flower-boll2{
+
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  width: 250px;
+  height: 350px;
+
+}
+.flower-boll3{
+
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  width: 250px;
+  height: 350px;
+
+}
+.img1{
+
+height: 300px;
+width: 200px;
+margin-bottom: 0;
+}
+.text1{
+
+  color: #272727;
+  
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+
+}
+.color{
+
+ display: flex;
+
+}
