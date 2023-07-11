@@ -222,7 +222,7 @@ span {
     linear-gradient(#886c6c00, #000000);
   background-repeat: no-repeat;
   background-blend-mode: darken;
-
+  width: 100%;
   padding: 150px;
   text-align: center;
   margin-bottom: 50px;
