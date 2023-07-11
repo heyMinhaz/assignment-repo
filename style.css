@@ -194,7 +194,7 @@ span {
   border-radius: 5;
 }
 .finis {
-  padding: 150px;
+  padding: 100px;
   background: #111010;
 }
 .insta1 {
@@ -221,18 +221,18 @@ span {
 
 
 
-.about-you{
+.about-us{
   text-align: center;
   background-image: url(https://cdn.pixabay.com/photo/2023/06/20/20/31/flower-8077948_1280.jpg?fbclid=IwAR3tHNuIsAMoNdQa4fSdBLl43zk_wXsgHLM1yOMF50x87K3rKTUD5RpQeQQ),linear-gradient(#302f2f00,#555756);
   background-repeat: no-repeat;
   background-blend-mode: darken;
   background-size: cover;
   width: 100%;
-  height: 440px;
+  height: 430px;
   padding-bottom: 70px;
   margin-bottom: 150px;
 }
-.about2{
+.about{
   padding-top: 90px;
   color: rgb(18, 17, 17);
 }
