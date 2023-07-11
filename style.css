@@ -271,3 +271,33 @@ margin: 145px;
 
 
 }
+.finis{
+
+padding: 150px;
+background: #111010;
+
+}
+.insta1{
+
+  text-align: center;
+  color: rgba(255, 255, 255, 0.40);
+
+}
+.instap1{
+
+  color: rgba(255, 255, 255, 0.90);
+  
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+
+  text-align: center;
+
+}
+.white{
+
+  color: white;
+
+}
